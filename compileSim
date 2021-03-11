@@ -1,0 +1,3 @@
+gcc -ansi -c ${2}.c -o ${2}.o
+gcc -ansi -c ${1}.c -o ${1}.o
+gcc ${1}.o ${2}.o -o ${1}

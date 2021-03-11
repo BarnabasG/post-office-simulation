@@ -1,0 +1,9 @@
+maxQueueLength=5
+servicePoints=3
+closingTime=100
+maxNewCustomers=4
+minNewCustomers=1
+maxPatience=20
+minPatience=5
+maxTaskTime=4
+minTaskTime=1
